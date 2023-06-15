@@ -1,0 +1,1 @@
+# Face-Recognition-And-QR-Attendance-Management-System
